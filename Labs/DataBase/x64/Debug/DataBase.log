@@ -1,0 +1,14 @@
+﻿  Add.cpp
+  Graph.cpp
+  MainDataBase.cpp
+  Menu.cpp
+  SearchName.cpp
+  SearchYear.cpp
+  View.cpp
+  moc_Add.cpp
+  moc_Graph.cpp
+  moc_Menu.cpp
+  moc_SearchName.cpp
+  moc_SearchYear.cpp
+  moc_View.cpp
+  DataBase.vcxproj -> C:\Users\dvm10\Desktop\ВУЗ\2 семестр\ООП\Лабы (программы)\Практика\Практика3\Практика3\debug\DataBase.exe
